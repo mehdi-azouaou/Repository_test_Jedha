@@ -1,2 +1,1 @@
-# Repository_test_Jedha
-Exercice sur les actions et résultats sur Github
+# Mon test de l'exo Jedha
